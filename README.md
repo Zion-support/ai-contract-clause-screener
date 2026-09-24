@@ -1,13 +1,16 @@
 # AI Contract Clause Screener
 
-Flag risky clauses in vendor contracts with AI — fast screening before signature.
+Flag risky clauses in vendor contracts before you sign.
 
-Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+**Live app:** https://ziontechgroup.com/ai-contract-clause-screener/
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full app catalog: https://ziontechgroup.com/apps/
-- 📢 About the network: https://ziontechgroup.com/app-network/
-- 💻 GitHub org: https://github.com/Zion-support
-- ✉️ Contact: commercial@ziontechgroup.com
+## Features
+- Rapid vendor contract screening
+- Risk flags with plain-language explanations
+- Sign / negotiate / reject recommendation
 
-Related apps: [ai-contract-reviewer](https://github.com/Zion-support/ai-contract-reviewer) · [contract-clause-reviewer](https://github.com/Zion-support/contract-clause-reviewer) · [zion-ai-contract-guardian](https://github.com/Zion-support/zion-ai-contract-guardian)
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [Contract Clause Sentry](https://github.com/Zion-support/contract-clause-sentry) · [Contract Redline Copilot](https://github.com/Zion-support/contract-redline-copilot) · [Legal Advisor](https://github.com/Zion-support/ai-legal-advisor) · [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard)
+
+© 2026 Zion Tech Group
