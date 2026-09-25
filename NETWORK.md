@@ -1,6 +1,6 @@
 # AI Contract Clause Screener — Network Links
 
-Flag risky clauses in vendor contracts before signature.
+Screen contracts for risky clauses before signature.
 
 ## Live
 - App: https://ziontechgroup.com/ai-contract-clause-screener/
