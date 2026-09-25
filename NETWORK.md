@@ -1,10 +1,21 @@
-# AI Contract Clause Screener
+# AI Contract Clause Screener — Network Links
 
-Flag risky clauses in vendor contracts.
+Flag risky clauses in vendor contracts before signature.
+
+## Live
+- App: https://ziontechgroup.com/ai-contract-clause-screener/
+- Repo: https://github.com/Zion-support/ai-contract-clause-screener
+- Pages: https://zion-support.github.io/ai-contract-clause-screener/
+
+## Related apps
+- [contract-redline-copilot](https://ziontechgroup.com/contract-redline-copilot/) · [GitHub](https://github.com/Zion-support/contract-redline-copilot)
+- [contract-obligation-tracker](https://ziontechgroup.com/contract-obligation-tracker/) · [GitHub](https://github.com/Zion-support/contract-obligation-tracker)
+- [dpia-generator](https://ziontechgroup.com/dpia-generator/) · [GitHub](https://github.com/Zion-support/dpia-generator)
 
 ## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-contract-reviewer](https://github.com/Zion-support/ai-contract-reviewer) · [zion-ai-contract-reviewer](https://github.com/Zion-support/zion-ai-contract-reviewer) · [contract-clause-reviewer](https://github.com/Zion-support/contract-clause-reviewer) · [ai-legal-advisor](https://github.com/Zion-support/ai-legal-advisor)
+- Homepage: https://ziontechgroup.com
+- App Showcase: https://ziontechgroup.com/apps/
+- Master catalog: https://github.com/Zion-support/zion-app-network
+- Apps hub: https://github.com/Zion-support/zion-apps-hub
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+*Zion Tech Group · part of the 703+ app AI network.*
