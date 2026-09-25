@@ -1,6 +1,6 @@
 # AI Contract Clause Screener — Network Links
 
-Screen contracts for risky clauses before signature.
+Screen contract clauses for risk, missing protections and non-standard terms.
 
 ## Live
 - App: https://ziontechgroup.com/ai-contract-clause-screener/
